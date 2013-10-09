@@ -78,7 +78,7 @@ namespace CS_threescale
 
             AddTransactions(ref content, transactions);
 
-            Console.WriteLine("content: " + content);
+            //Console.WriteLine("content: " + content);
             
             byte[] data = Encoding.UTF8.GetBytes(content);
             request.ContentLength = data.Length;

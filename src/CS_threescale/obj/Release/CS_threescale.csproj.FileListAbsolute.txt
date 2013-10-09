@@ -8,3 +8,8 @@ C:\share\3scale-3scale_ws_api_for_dotnet-1471879\src\CS_threescale\bin\Release\C
 C:\share\3scale-3scale_ws_api_for_dotnet-1471879\src\CS_threescale\obj\Release\ResolveAssemblyReference.cache
 C:\share\3scale-3scale_ws_api_for_dotnet-1471879\src\CS_threescale\obj\Release\CS_threescale.dll
 C:\share\3scale-3scale_ws_api_for_dotnet-1471879\src\CS_threescale\obj\Release\CS_threescale.pdb
+C:\Code\geofeedia\misc\3scale_ws_api_for_dotnet\src\CS_threescale\bin\Release\CS_threescale.dll
+C:\Code\geofeedia\misc\3scale_ws_api_for_dotnet\src\CS_threescale\bin\Release\CS_threescale.pdb
+C:\Code\geofeedia\misc\3scale_ws_api_for_dotnet\src\CS_threescale\obj\Release\CS_threescale.csprojResolveAssemblyReference.cache
+C:\Code\geofeedia\misc\3scale_ws_api_for_dotnet\src\CS_threescale\obj\Release\CS_threescale.dll
+C:\Code\geofeedia\misc\3scale_ws_api_for_dotnet\src\CS_threescale\obj\Release\CS_threescale.pdb
